@@ -11,6 +11,7 @@
   Во четвртиот test case функцијата прима null баркод што доведува до тоа да се случи Exception, односно "No barcode!" exception-от, по кој завршува програмата.
   Во петтиот test case сите атрибути на функцијата се точни и се исполнува условот
 if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0') по што функцијата враќа false.
+
 5.
 ![image](https://github.com/jankulovska/SI_2024_lab2/assets/134975577/b85d4b47-aa74-4189-84c9-ebf48da1fe6b)
   Во првиот test case имаме ТТТ, односно трите атрибути го задоволуваат дадениот услов.
