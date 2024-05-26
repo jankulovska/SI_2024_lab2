@@ -1,6 +1,7 @@
 # Сара Јанкуловска 223227
 2.
- ![SIIIIIIIIIIIIIIIII drawio](https://github.com/jankulovska/SI_2024_lab2/assets/134975577/b7ff6b74-742d-43fe-9979-4b0e6f85648b)
+ ![SI_FINAL drawio](https://github.com/jankulovska/SI_2024_lab2_223227/assets/134975577/ec80de0f-4f49-43f9-90eb-8f58d2b2639b)
+
 3. Цикломатската комплексност според бројот на региони е 10.
    
 4.
